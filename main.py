@@ -25,7 +25,7 @@ while True:
         if op >= 1 and 5 >= op:
             break
     else:
-        print('Yет такой операции')
+        print('Указанной Вами операции не существует. Повторите ввод.')
 
 #вычисления
 def calculations(fv, sv):
